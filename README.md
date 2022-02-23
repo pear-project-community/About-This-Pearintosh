@@ -10,5 +10,6 @@ macOS like system overview for Linux write in Gambas.
 
 - About This Pearintosh
 
-![image](https://user-images.githubusercontent.com/74509560/155301937-e5983945-7522-4082-a100-4ed5244d46c3.png)
+![image](https://user-images.githubusercontent.com/74509560/155305023-1abff960-1747-4841-a8d8-f5ec0189bd4b.png)
+
 
