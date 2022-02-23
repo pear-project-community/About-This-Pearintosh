@@ -1,6 +1,8 @@
 # About-This-Pearintosh
 macOS like system overview for Linux write in Gambas.
 
+Currently, it's only the UI.
+
 ## Preview
 
 - About this Mac :
